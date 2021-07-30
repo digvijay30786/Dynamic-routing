@@ -1,0 +1,15 @@
+.App > nav > ul {
+  display: flex;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  column-gap: 30px;
+  font-size: 20px;
+  border-bottom: 2px solid green;
+  padding-bottom: 3rem;
+}
+
+.App > nav > ul > li > .href {
+  text-decoration: none;
+}
